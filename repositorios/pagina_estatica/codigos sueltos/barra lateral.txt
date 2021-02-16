@@ -1,0 +1,8 @@
+<nav class=" menu_lateral clearfix">
+            <ul>
+                <a href="#"><img class="iconos" src="./imagenes/facebook.bmp" ></a><br>
+                <a href="#"><img class="iconos" src="./imagenes/instagram.bmp"></a><br>
+                <a href="#"><img class="iconos" src="./imagenes/instagram.bmp"></a><br>
+            </ul>
+    
+        </nav>
